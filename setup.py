@@ -8,7 +8,7 @@ with open("CHANGELOG.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="py-reddit",
-    version="1.1.2",
+    version="1.1.4",
     author="KING7077",
     author_email="sram2007india@gmail.com",
     description="Reddit and python, made simple.",

@@ -7,7 +7,7 @@ The package is written in Python 3.10, and uses requests and aiohttp as its main
 
 Updates will be coming soon, thank you for viewing this package, please consider using it.
 
-Version - 1.1.2
+Version - 1.1.4
 
 Socials - [KING7077 - GitHub](https://github.com/KING7077)
 
